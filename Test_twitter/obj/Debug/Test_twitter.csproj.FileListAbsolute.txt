@@ -1,0 +1,12 @@
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Test_twitter.exe.config
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Test_twitter.exe
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Test_twitter.pdb
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\TweetSharp.dll
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\bin\Debug\TweetSharp.pdb
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\obj\Debug\Test_twitter.csprojResolveAssemblyReference.cache
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\obj\Debug\Test_twitter.exe
+C:\Users\antho\Desktop\Test_twitter\Test_twitter\obj\Debug\Test_twitter.pdb
